@@ -1,0 +1,2 @@
+train_start,train_end,test_start,test_end,accuracy,precision_class_1,recall_class_1,f1_score_class_1,support_class_1
+2025-03-19 04:44:00,2025-05-19 04:44:00,2025-05-19 04:44:00,2025-06-19 04:44:00,0.6797675449856466,0.0,0.0,0.0,13721.0
